@@ -1,0 +1,12 @@
+//color
+@import './color.scss';
+
+//layout
+@import '../layouts/BasicLayout/basicLayout.scss';
+
+//header
+@import '../components/header/header.scss';
+    //topbar
+    @import '../components/header/topbar/topbar.scss';
+    //menu
+    @import '../components/header/menuWeb/menuWeb.scss';
